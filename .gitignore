@@ -1,0 +1,9 @@
+outputs/
+work/
+*.osm
+*.jpg
+*.jpeg
+*.JPG
+*.png
+__pycache__/
+*.pyc
