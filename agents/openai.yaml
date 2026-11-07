@@ -1,0 +1,6 @@
+interface:
+  display_name: "map-picture"
+  short_description: "真实地理地图融入旅行摄影，自动辅助选位、独立透明图层与原图保真核验"
+  default_prompt: "请用 $map-picture 将我上传的原图制作成独立杂志风格的地理视觉作品，依据拍摄地点与可用天空布局真实地图，并保留原始画质。"
+policy:
+  allow_implicit_invocation: true
