@@ -1,0 +1,25 @@
+{
+  "source": "source.jpg",
+  "osm": "map.osm",
+  "output_dir": "outputs",
+  "prefix": "beijing-school-v1",
+  "bounds": {"west": 116.354, "south": 39.919, "east": 116.398, "north": 39.945},
+  "pin": {
+    "lon": 116.372133,
+    "lat": 39.930191,
+    "label": ["BEIJING NO. 4", "HIGH SCHOOL"],
+    "note": "approx. campus area"
+  },
+  "title": "B E I J I N G",
+  "subtitle": "XICHENG / CHINA",
+  "labels": [
+    {"lon": 116.384, "lat": 39.938, "text": "Shichahai", "dx": 0, "dy": -14},
+    {"lon": 116.38247, "lat": 39.92599, "text": "Beihai Park", "dx": -10, "dy": -10}
+  ],
+  "layout": {"mode": "auto", "min_area": 0.15, "max_area": 0.25, "max_bottom": 0.80},
+  "source_urls": [
+    "https://www.openstreetmap.org/way/412298305",
+    "https://map.beijing.gov.cn/map-web/place?categoryId=zx&placeId=684a86aef8f52a79c0ac8748",
+    "https://www.openstreetmap.org/copyright"
+  ]
+}
